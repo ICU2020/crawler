@@ -12,12 +12,6 @@ https://github.com/decaywood/XueQiuSuperSpider
 
 https://github.com/xianyunyh/spider_job
 
-## SS账号爬虫
-
-众所周知，免费的SS账号基本上是会不定时更换密码的，为了免去手动操作的过程，这个爬虫爬取了几个提供免费账号的网站，并自动生成配置文件，只需设置自己的SS安装目录便行
-
-https://github.com/chenjiandongx/soksaccounts
-
 ## 免费代理爬虫
 
 很多网站对爬虫都会有 IP 访问频率的限制。如果你的爬虫只用一个 IP 来爬取，那就只能设置爬取间隔，来避免被网站屏蔽。但是这样爬虫的效率会大大下降，这个时候就需要使用代理 IP 来爬取数据。一个 IP 被屏蔽了，换一个 IP 继续爬取。此项目就是提供给你免费代理的。
